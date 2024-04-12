@@ -14,4 +14,6 @@ Mariam Behairy (Contact: http://www.linkedin.com/in/mariam-behairy-a26277259 )
 
 Yassin Ehab (Contact: https://www.linkedin.com/in/yassin-ehab-66310b267 )
 
- Dataset : https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
+Dataset : https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
+
+Post : https://www.linkedin.com/posts/menna-elminshawy-5187a2248_datascience-machinelearning-apriorialgorithm-activity-7181034372093911041-uPE_?utm_source=share&utm_medium=member_desktop
